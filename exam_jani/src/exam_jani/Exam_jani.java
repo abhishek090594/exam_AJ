@@ -21,5 +21,8 @@ public class Exam_jani {
     public String getName(){
         return name;
     }
+    public int getId(){
+     return id;
+    }
     
 }
