@@ -10,12 +10,16 @@ package exam_jani;
  * @author admin
  */
 public class Exam_jani {
-
+ String name,address;
+ int id;
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    }
+    public String getName(){
+        return name;
     }
     
 }
